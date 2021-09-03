@@ -96,7 +96,7 @@ nav {
 
 .promo {
   min-height: 799px;
-  background: url("../img/bg/main_bg.jpg") center center/cover no-repeat;
+  background: url("/Uber/img/bg/main_bg.jpg") center center/cover no-repeat;
   padding: 150px 0 135px 0;
 }
 .promo .promo_header {
@@ -229,7 +229,7 @@ nav {
 .mobile {
   min-height: 863px;
   padding: 48px 0 80px 0;
-  background: url("../img/bg/mobile_app.png") center center/cover no-repeat;
+  background: url("/Uber/img/bg/mobile_app.png") center center/cover no-repeat;
 }
 .mobile .subtitle {
   margin-top: 19px;
@@ -288,27 +288,27 @@ nav {
   transition: 0.2s;
 }
 .mobile_item_1 {
-  background: url("../img/bg/mobile_screen_1.jpg") center center/cover no-repeat;
+  background: url("/Uber/img/bg/mobile_screen_1.jpg") center center/cover no-repeat;
 }
 .mobile_item_2 {
-  background: url("../img/bg/mobile_screen_2.jpg") center center/cover no-repeat;
+  background: url("/Uber/img/bg/mobile_screen_2.jpg") center center/cover no-repeat;
 }
 .mobile_item_3 {
-  background: url("../img/bg/mobile_screen_3.jpg") center center/cover no-repeat;
+  background: url("/Uber/img/bg/mobile_screen_3.jpg") center center/cover no-repeat;
 }
 .mobile_item_4 {
-  background: url("../img/bg/mobile_screen_4.jpg") center center/cover no-repeat;
+  background: url("/Uber/img/bg/mobile_screen_4.jpg") center center/cover no-repeat;
 }
 .mobile_item_5 {
-  background: url("../img/bg/mobile_screen_5.jpg") center center/cover no-repeat;
+  background: url("/Uber/img/bg/mobile_screen_5.jpg") center center/cover no-repeat;
 }
 .mobile_item_6 {
-  background: url("../img/bg/mobile_screen_6.jpg") center center/cover no-repeat;
+  background: url("/Uber/img/bg/mobile_screen_6.jpg") center center/cover no-repeat;
 }
 
 .car {
   position: relative;
-  background: url("../img/bg/mobile_app.png") center center/cover no-repeat;
+  background: url("/Uber/img/bg/mobile_app.png") center center/cover no-repeat;
   min-height: 895px;
   padding: 57px 0 68px 0;
 }
@@ -381,13 +381,13 @@ nav {
   height: 20px;
   left: -32px;
   top: 3px;
-  background: url("../icons/check_blue.png") center center/cover no-repeat;
+  background: url("/Uber/icons/check_blue.png") center center/cover no-repeat;
 }
 .require .warning .require_title {
   color: #ff5656;
 }
 .require .warning .require_list li:before {
-  background: url("../icons/check_red.png") center center/cover no-repeat;
+  background: url("/Uber/icons/check_red.png") center center/cover no-repeat;
 }
 
 .subheader .container .row .xs-visible {
