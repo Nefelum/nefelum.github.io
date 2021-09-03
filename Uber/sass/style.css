@@ -288,22 +288,22 @@ nav {
   transition: 0.2s;
 }
 .mobile_item_1 {
-  background: url("/img/bg/mobile_screen_1.jpg") center center/cover no-repeat;
+  background: url("../img/bg/mobile_screen_1.jpg") center center/cover no-repeat;
 }
 .mobile_item_2 {
-  background: url("/img/bg/mobile_screen_2.jpg") center center/cover no-repeat;
+  background: url("../img/bg/mobile_screen_2.jpg") center center/cover no-repeat;
 }
 .mobile_item_3 {
-  background: url("/img/bg/mobile_screen_3.jpg") center center/cover no-repeat;
+  background: url("../img/bg/mobile_screen_3.jpg") center center/cover no-repeat;
 }
 .mobile_item_4 {
-  background: url("/img/bg/mobile_screen_4.jpg") center center/cover no-repeat;
+  background: url("../img/bg/mobile_screen_4.jpg") center center/cover no-repeat;
 }
 .mobile_item_5 {
-  background: url("/img/bg/mobile_screen_5.jpg") center center/cover no-repeat;
+  background: url("../img/bg/mobile_screen_5.jpg") center center/cover no-repeat;
 }
 .mobile_item_6 {
-  background: url("/img/bg/mobile_screen_6.jpg") center center/cover no-repeat;
+  background: url("../img/bg/mobile_screen_6.jpg") center center/cover no-repeat;
 }
 
 .car {
